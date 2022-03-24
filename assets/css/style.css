@@ -1,0 +1,13 @@
+main{
+    background-color: darkgray;
+}
+
+.myc_conteiner{
+    background-color: white;
+    display: flex;
+    width: calc(100%/2);
+    height: auto;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
